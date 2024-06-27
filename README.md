@@ -10,7 +10,8 @@ This is a simple Simon game built with HTML, CSS, and JavaScript.
 - Increasing difficulty
 - Score tracking
 
-
 ## Installation
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/7bhinav/Simon-gamejs.git
